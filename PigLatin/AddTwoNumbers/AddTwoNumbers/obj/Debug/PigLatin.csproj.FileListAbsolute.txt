@@ -1,0 +1,10 @@
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\obj\Debug\PigLatin.csproj.AssemblyReference.cache
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\obj\Debug\PigLatin.PigLatin.resources
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.Properties.Resources.resources
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\obj\Debug\PigLatin.csproj.GenerateResource.cache
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\skyfl\OneDrive\Documents\00 SCC\02 Due Tuesdays - Intro to Prog & Logic\Unit03\Unit03_datafiles\Unit03_datafiles\PigLatin\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb

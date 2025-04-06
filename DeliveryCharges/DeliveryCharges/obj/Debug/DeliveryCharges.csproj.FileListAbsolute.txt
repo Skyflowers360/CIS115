@@ -1,0 +1,10 @@
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.exe.config
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.AssemblyReference.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.Form1.resources
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.Properties.Resources.resources
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.GenerateResource.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.CoreCompileInputs.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.exe
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 6\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.pdb

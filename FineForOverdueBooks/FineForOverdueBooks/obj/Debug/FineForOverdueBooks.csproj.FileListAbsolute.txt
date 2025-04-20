@@ -1,0 +1,10 @@
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.exe.config
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.exe
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.pdb
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csproj.AssemblyReference.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.FineForOverdueBooks.resources
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.Properties.Resources.resources
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csproj.GenerateResource.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csproj.CoreCompileInputs.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.exe
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.pdb

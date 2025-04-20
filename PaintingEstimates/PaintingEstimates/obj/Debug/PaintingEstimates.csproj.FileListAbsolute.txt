@@ -1,0 +1,10 @@
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\bin\Debug\PaintingEstimates.exe.config
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\bin\Debug\PaintingEstimates.exe
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\bin\Debug\PaintingEstimates.pdb
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\obj\Debug\PaintingEstimates.csproj.AssemblyReference.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\obj\Debug\PaintingEstimates.Form1.resources
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\obj\Debug\PaintingEstimates.Properties.Resources.resources
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\obj\Debug\PaintingEstimates.csproj.GenerateResource.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\obj\Debug\PaintingEstimates.csproj.CoreCompileInputs.cache
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\obj\Debug\PaintingEstimates.exe
+C:\Users\dlsmith\OneDrive - Western Carolina University (WCU)\01 Delete Me\01 SCC\02 Due Tuesday - Intro to Prog & Logic\Unit 7\PaintingEstimates\PaintingEstimates\obj\Debug\PaintingEstimates.pdb
